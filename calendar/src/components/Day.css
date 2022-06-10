@@ -1,0 +1,17 @@
+.Day-Wrapper{
+    background-color: rgb(225, 99, 75);
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+    color: white;
+    height: 120px;
+    font-size: 22pt;
+    font-weight: 600;
+    border: 2px solid black;
+    font-family: 'Asap Condensed', sans-serif;
+    text-transform: uppercase;
+    box-shadow: 4px 4px 10px black;
+    
+}
+h3{
+    margin-bottom: 10px;
+}
